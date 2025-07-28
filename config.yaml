@@ -1,26 +1,6 @@
 #Last chr number
 chromosome_number: '38'
 
-#Reference fasta file canfam3.1 (to be downloaded from https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_000002285.3/)
-ref_fasta_file: 'data/reference_fasta/canFam3_withY.fa'
-
-#Reference panel (set to location of reference panel)
-reference_panel: 'data/reference_panel/reference_panel.vcf.gz'
-
-#Genetic maps for canfam3.1
-gen_map_path: 'data/recombination_map/'
-gen_map_files: '{chrom}_average_canFam3.1_modified.txt'
-
-#Bam files to impute 
-bam_imputation: 'data/sample_lists/bams_for_imputation.txt'
-
-#Paths to GLIMPSE v1.1.1 modules (adjust accordingly to your system)
-glimpse_chunk: '/maps/projects/racimolab/people/qcj125/programmes/GLIMPSE/chunk/bin/GLIMPSE_chunk'
-glimpse_impute: '/maps/projects/racimolab/people/qcj125/programmes/GLIMPSE/phase/bin/GLIMPSE_phase'
-glimpse_ligate: '/maps/projects/racimolab/people/qcj125/programmes/GLIMPSE/ligate/bin/GLIMPSE_ligate'
-glimpse_sample: '/maps/projects/racimolab/people/qcj125/programmes/GLIMPSE/sample/bin/GLIMPSE_sample'
-glimpse_concordance: '/maps/projects/racimolab/people/qcj125/programmes/GLIMPSE/concordance/bin/GLIMPSE_concordance'
-
 #GLIMPSE_chunk parameters
 window_size: '2000000'
 buffer_size: '200000'
