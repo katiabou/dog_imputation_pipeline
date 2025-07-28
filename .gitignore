@@ -1,1 +1,5 @@
 data/reference_fasta/
+data/reference_panel_vcf/
+data/gen_map/
+.snakemake/
+benchmarks/
