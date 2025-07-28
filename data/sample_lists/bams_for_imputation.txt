@@ -1,4 +1,0 @@
-Sample	Bam
-NGDG	/projects/racimolab/people/qcj125/MUNICH_FILES/PUBLISHED_BAMS/PUBLISHED/NGDG_fullmerge_rmdup_rmdup_realgined_6_5_15.bam
-OL4061_Veretye	/projects/racimolab/people/qcj125/MUNICH_FILES/PUBLISHED_BAMS/PUBLISHED/OL4061_Veretye_rmdup.bam
-SOTN01_merged	/projects/racimolab/people/qcj125/MUNICH_FILES/PUBLISHED_BAMS/PUBLISHED/SOTN01_merged_P8903_1005_S5_L005_1006_S6_L006_seqprep_reheader.bam
